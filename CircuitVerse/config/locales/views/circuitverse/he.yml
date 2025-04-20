@@ -1,0 +1,41 @@
+he:
+  circuitverse:
+    examples:
+      title: "CircuitVerse - דוגמאות"
+      main_heading: "דוגמאות"
+      main_description: "למד וקבל השראה מהדוגמאות והמשתמשים הטובים ביותר"
+    index:
+      title: "CircuitVerse - סימולטור למעגלי לוגיקה דיגיטליים מקוון"
+      main_heading: "צלול לעולם מעגלי הלוגיקה בחינם!"
+      main_description: "משערים פשוטים למעגלים סדרתיים מורכבים, תרשימי זמן, יצירת מעגלים אוטומטית, חקירת רכיבי IC סטנדרטיים, ועוד הרבה יותר"
+      learn_logic_design: "למד תכנון לוגי"
+      for_teachers: "למורים"
+      for_contributors: "לתורמים"
+      features:
+        main_heading: "תכונות"
+        main_description: "עצב מעגלים במהירות ובקלות עם ממשק משתמש מודרני ואינטואיטיבי עם גרירה ושחרור, העתק/הדבק, זום ועוד"
+        item1_heading: "יצוא תמונות ברזולוציה גבוהה"
+        item1_text: "ייצא תמונות ברזולוציה גבוהה בפורמטים שונים כולל SVG"
+        item2_heading: "ניתוח קומבינטורי"
+        item2_text: "צור מעגלים אוטומטית מתוך טבלאות אמת"
+        item3_heading: "Testbench ותרשים זמן"
+        item3_text: "בדוק את המעגל שלך באמצעות Testbench ואמת את ההתנהגות שלו עם תרשים זמן"
+        item4_heading: "הטמעה בבלוגים"
+        item4_text: "הטמע את המעגלים שלך בקלות בבלוגים ובאתרים באמצעות HTML5 iFrames"
+        item5_heading: "שימוש במעגלים תת-מערכתיים"
+        item5_text: "צור מעגלים תת-מערכתיים פעם אחת והשתמש בהם שוב. לעיצוב נוח ומובנה יותר"
+        item6_heading: "רכיבים וחוטים מרובי סיביות"
+        item6_text: "CircuitVerse תומך בחוטים מרובי סיביות, מה שהופך את העיצוב לקל, מהיר וללא עומס"
+      featured_examples:
+        main_heading: "דוגמאות נבחרות"
+        main_description: "למד וקבל השראה מהדוגמאות הטובות ביותר"
+        circuit1_text: "מחבר Ripple Carry 16 ביט"
+        circuit2_text: "SAP-1"
+        circuit3_text: "מחבר מלא מ-2 חצאי מחברים"
+      explore_more: "גלה עוד"
+      editor_picks:
+        main_heading: "בחירת העורך"
+        main_description: "המעגלים האלו נבחרו ידנית על ידי הכותבים שלנו בזכות האיכות המרשימה שלהם"
+      recent_circuits:
+        main_heading: "מעגלים אחרונים"
+        main_description: "גלה את המעגלים האחרונים של המשתמשים הנהדרים שלנו"

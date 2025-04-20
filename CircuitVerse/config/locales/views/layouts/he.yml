@@ -1,0 +1,23 @@
+he:
+  layout:
+    link_to_simulator: "סימולטור"
+    getting_started_dropdown: "תחילת העבודה"
+    link_to_learn_more: "למידה"
+    link_to_docs: "תיעוד"
+    link_to_features: "תכונות"
+    link_to_teachers: "מורים"
+    link_to_blog: "בלוג"
+    link_to_about: "אודות"
+    link_to_faq: "שאלות נפוצות"
+    footer:
+      social_icon_text: "עקבו אחרינו ב:"
+      link_to_examples: "דוגמאות"
+      my_circuits: "המעגלים שלי"
+      link_to_contribute: "תרומה"
+      link_to_forum: "פורום"
+      sponsor_logo_text:
+        brought_by: "מובא אליכם על ידי:"
+        hosting_sponsor: "חסות אירוח:"
+        marketed_by: "שיווק על ידי:"
+        incubated_from: "חממה מ:"
+      copyright_text: "© %{time_current_year} CircuitVerse, כל הזכויות שמורות."
